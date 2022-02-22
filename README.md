@@ -1,0 +1,4 @@
+- This is a React app that utilizes redux to simulate a music store.
+- This is similar to the Vue.js repository but utilizes React instead.
+- You can add elements to a cart and check them out to reduce stock. 
+- You can see it in action on Netlify here: https://tender-mcnulty-3968e0.netlify.app/#/
